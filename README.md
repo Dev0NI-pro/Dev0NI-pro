@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Dev0NI-pro
-- 👀 I’m interested in New technologies
-- 🌱 I’m currently learning how to be a better programer
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Not yet :)
+# 🎨 Passionate web developer
 
-<!---
-Dev0NI-pro/Dev0NI-pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 **Specialized in JavaScript**, with expertise in C++, Java, Python, and PHP.  
+🖥️ In my spare time, I build modern and dynamic websites, combining **performance** and **aesthetics**.  
+🌸 Passionate about **new technologies**, with a hint of inspiration from **Japanese culture**.  
+
+
+# 🎨 Développeur web passionné
+
+🔧 **Spécialisé en JavaScript**, avec une expertise en C++, Java, Python et PHP.  
+🖥️ Pendant mon temps libre, je crée des sites web modernes et dynamiques, en alliant **performance** et **esthétique**.  
+🌸 Passionné par les **nouvelles technologies** et inspiré par la **culture japonaise**.  
